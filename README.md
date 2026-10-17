@@ -16,8 +16,6 @@
 
 [![Firefox Add-on](https://img.shields.io/badge/Firefox_ADD--ON-Get_it_now-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/timetracker-pro/)
 
-[**🦊 Get TimeTracker-Pro for Firefox →**](https://addons.mozilla.org/en-US/firefox/addon/timetracker-pro/)
-
 ---
 
 </div>
