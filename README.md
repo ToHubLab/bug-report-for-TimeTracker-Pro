@@ -46,7 +46,7 @@ Install TimeTracker-Pro directly from the official Mozilla Add-ons website.
 
 Found something that doesn't work as expected?
 
-Please [**open a new issue**](https://github.com/ToHubLab/TimeTracker-Pro-feedback/issues/new) and provide as much detail as possible.
+Please [**open a new issue**](https://github.com/ToHubLab/bug-report-for-TimeTracker-Pro/issues/new/choose) and provide as much detail as possible.
 
 A helpful bug report includes:
 
@@ -63,7 +63,7 @@ Have an idea that could make TimeTracker-Pro better?
 
 We welcome suggestions for new features, improvements, and usability enhancements.
 
-Please [**create an issue**](https://github.com/ToHubLab/TimeTracker-Pro-feedback/issues/new) and describe your idea and how it would help users.
+Please [**create an issue**](https://github.com/ToHubLab/bug-report-for-TimeTracker-Pro/issues/new/choose) and describe your idea and how it would help users.
 
 ## 💬 Community Guidelines
 
@@ -100,7 +100,7 @@ Every bug report and constructive suggestion helps make the project better.
 
 **Made with ❤️ by [ToHubLab](https://tohub.rf.gd/)**
 
-[🦊 Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/timetracker-pro/) · [🐛 Report a Bug](https://github.com/ToHubLab/TimeTracker-Pro-feedback/issues/new)
+[🦊 Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/timetracker-pro/) · [🐛 Report a Bug](https://github.com/ToHubLab/bug-report-for-TimeTracker-Pro/issues/new/choose)
 
 <sub>© ToHubLab · All rights reserved.</sub>
 
